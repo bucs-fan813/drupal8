@@ -6,13 +6,9 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "ext-dba": "*",
         "ext-gd": "*",
         "ext-imagick": "*",
-        "ext-pdo": "*",
-        "ext-xsl": "*",
-        "ext-imap": "*"
-
+        "ext-pdo": "*"
     },
     "replace": {
         "drupal/core": "^8.6"

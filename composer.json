@@ -10,7 +10,9 @@
         "ext-gd": "*",
         "ext-imagick": "*",
         "ext-pdo": "*",
-        "ext-xsl": "*"
+        "ext-xsl": "*",
+        "ext-imap": "*"
+
     },
     "replace": {
         "drupal/core": "^8.6"
